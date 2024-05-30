@@ -24,8 +24,8 @@ body {
 div {
   padding-left: 15px;
   padding-right: 15px;
-  padding-down: 5px;
-  padding-up: 5px;
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
 
 ul {
