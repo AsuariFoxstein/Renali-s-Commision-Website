@@ -1,1 +1,43 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+html {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-trim: 15px;
+  background-color: black;
+}
+
+header {
+  background-color: lightgrey;
+  border: 15px;
+  border-left: 0px;
+  border-right: 0px;
+  border-top: 0px;
+  border-style: solid;
+  border-color: grey;
+}
+
+body {
+  background-color: darkgray;
+}
+
+div {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-down: 5px;
+  padding-up: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 5px;
+  display: flex;
+  align-content: row;
+  justify-content: space-evenly;
+}
+
+.pageintro {
+  background-color: dimgray;
+  display: block;
+  align-items: center;
+}
